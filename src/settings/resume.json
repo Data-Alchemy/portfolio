@@ -1,0 +1,128 @@
+{
+    "basics": {
+        "name": "Sebastian Hansen",
+        "label": "Web Developer",
+        "email": "sebastian.hansen@dataalchemy.dev",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Platform Engineer",
+        "job2": "Data Engineer",
+        "description": "Hello! I'm Sebastian! Your data enthusiast. Always down for something new and challenging!  I'm here to help you create amazing data projects.",
+        "summary": "based in Vancouver Canada.",
+        "keywords": "personal,website,portfolio,template,kit,sebastian,hansen,shansen,webdev,web,developer,Vancouver Canada,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://shansen.vercel.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "vancouver",
+            "country": "Vancouver Canada",
+            "countryCode": "CA",
+            "region": "British Columbia"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "sebastian.hansen@dataalchemy.dev",
+                "url": "mailto:sebastian.hansen@dataalchemy.dev",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "sebastian",
+                "url": "https://www.linkedin.com/in/sebastian-hansen-data",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "sebastian",
+                "url": "https://github.com/Data-Alchemy",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Twitter",
+                "username": "@DataAlchemi",
+                "url": "@DataAlchemi",
+                "x_icon": "fab fa-twitter"
+            }
+        ]
+    },
+        "work": [
+            {
+                "company": "Data Alchemy Consulting",
+                "position": "Cloud Data Consultant",
+                "website": "http://dataalchemy.dev",
+                "startDate": "2022-02-01",
+                "endDate": "Present",
+                "summary": "I am passionate about helping organizations transform their business through innovation, and process improvement. With over 10 years of experience in the technology industry, I have a deep understanding of the opportunities and challenges of cloud services. With a strong background in business administration and computer science, I bring a unique combination of skills to my role. I am a strategic thinker with strong communication, leadership, and interpersonal skills, and I am dedicated to building and maintaining relationships with our customers and partners. If you are looking for a partner to help you transform your business, I invite you to connect with us at Data Alchemy. Together, we can unlock the full potential of your organization in the cloud.",
+                "highlights": ["Databricks", "Data Lineage", "+21 skills"]
+            },
+            {
+                "company": "Zymeworks Inc.",
+                "position": "Data Engineer II",
+                "employmentType": "Permanent Full-time",
+                "startDate": "2021-06-01",
+                "endDate": "2022-02-01",
+                "location": "Vancouver Canada, British Columbia, Canada",
+                "summary": "LinkedIn helped me get this job",
+                "highlights": ["Data Lineage", "Software Development", "+11 skills"]
+            },
+            {
+                "company": "Save-On-Foods",
+                "position": "Senior Data Engineer",
+                "employmentType": "Full-time",
+                "startDate": "2020-05-01",
+                "endDate": "2022-01-01",
+                "highlights": ["DAX", "Databricks", "+10 skills"]
+            },
+            {
+                "company": "TELUS",
+                "position": "Market Intelligence Manager",
+                "startDate": "2017-05-01",
+                "endDate": "2020-02-01",
+                "location": "Vancouver Canada, British Columbia, Canada",
+                "summary": "Managed data extra-net and external partners/ vendors /technology providers. Supported internal and external teams by creating, maintaining data pipelines, automation, applications, and reporting. Performed impact analysis on proposed changes evaluating potential impacts on data, applications, and effectively communicated potential risks/effects. Interfaced with management, users, and information technology professionals to solve complex business problems. Worked with Informatica, Salesforce, Domo, Tableau, Oracle, and Google services to provide ease of access to information.",
+                "highlights": ["Agile Development", "SQL", "+3 skills"]
+            },
+            {
+                "company": "TELUS",
+                "position": "Business Analyst",
+                "startDate": "2016-01-01",
+                "endDate": "2017-05-01",
+                "location": "Burnaby, Canada",
+                "summary": "Supported complimentary channels, Corp Stores, and Dealers through ETL, project support, and reporting. Performed heavy business coding (SQL, VBA, HTML, and XML), system parameter setting, ad-hoc queries, and developed/automated financial/statistical models using a variety of software applications. Managed Salesforce cases for reporting and field configuration."
+            }
+        ],
+        "licensesAndCertifications": [
+            {
+                "name": "Databricks Certified Data Engineer Associate",
+                "issuer": "Databricks",
+                "issueDate": "2023-06-01",
+                "expiryDate": "2025-06-01",
+                "credentialId": "76414042",
+                "skills": ["Azure Data Lake", "Data Engineering", "+1 skill"]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Universidad Latina de Costa Rica",
+                "area": "Business Administration in Human Resources",
+                "studyType": "Baccalaureate",
+                "startDate": "2006-01-01",
+                "endDate": "2010-01-01"
+            },
+            {
+                "institution": "INTECO",
+                "area": "Quality",
+                "studyType": "ISO 9001:2008",
+                "startDate": "2014-01-01",
+                "endDate": "2014-01-01"
+            }
+        ],
+        "languages": [
+            {
+                "language": "Duolingo Italian"
+            }
+        ]
+    }
+    

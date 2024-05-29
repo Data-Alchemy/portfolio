@@ -1,0 +1,62 @@
+{
+  "name": "react-portfolio",
+  "version": "0.1.0",
+  "homepage": "",
+  "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
+  "repository": "https://github.com/Data-Alchemy",
+  "author": "Sebastian Hansen <sebastian.hansen@dataalchemy.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@emailjs/browser": "latest",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/lab": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "classnames": "latest",
+    "ios-inner-height": "latest",
+    "popmotion": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet": "latest",
+    "react-router-dom": "latest",
+    "react-scripts": "latest",
+    "react-snapshot": "^1.3.0",
+    "react-transition-group": "latest",
+    "react-typing-animation": "latest",
+    "sweetalert2": "latest",
+    "three": "latest",
+    "use-dencrypt-effect": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "reactSnapshot": {
+    "exclude": [
+      "/resume"
+    ],
+    "snapshotDelay": 1000
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "emailjs": "latest"
+  }
+}
