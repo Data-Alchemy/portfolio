@@ -27,7 +27,8 @@
     "react-typing-animation": "latest",
     "sweetalert2": "latest",
     "three": "latest",
-    "use-dencrypt-effect": "latest"
+    "use-dencrypt-effect": "latest",
+    "@babel/plugin-proposal-private-property-in-object":"latest"
   },
   "scripts": {
     "start": "react-scripts start",

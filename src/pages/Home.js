@@ -18,6 +18,10 @@ const useStyles = makeStyles(() => ({
     display: 'flex',
     flexDirection: 'column',
     minHeight: '100vh',
+    margin: '10px',
+  },
+  component: {
+    margin: '10px 0',
   },
 }));
 
@@ -27,22 +31,29 @@ export const Home = () => {
   return (
     <>
       <div className={classes.root} id="home">
-        <DisplacementSphere />
-        <LogoLink />
-        <Content />
-        <ThemeToggle />
+        <div className={classes.component}><DisplacementSphere /></div>
+        <br></br>
+        <div className={classes.component}><LogoLink /></div>
+        <br></br>
+        <div className={classes.component}><Content /></div>
+        <br></br>
+        <div className={classes.component}><ThemeToggle /></div>
+        <br></br>
         <Hidden smDown>
-          <SocialIcons />
+          <div className={classes.component}><SocialIcons /></div>
         </Hidden>
         <Hidden mdUp>
-          <SpeedDials />
+          <div className={classes.component}><SpeedDials /></div>
         </Hidden>
-        <Resume />
+        <div className={classes.component}><Resume /></div>
       </div>
-      <SideNavbar />
-      <Works />
-      <About />
-      <Contact />
+      <div className={classes.component}><SideNavbar /></div>
+      <br></br>
+      <div className={classes.component}><Works /></div>
+      <br></br>
+      <div className={classes.component}><About /></div>
+      <br></br>
+      <div className={classes.component}><Contact /></div>
     </>
   );
 };

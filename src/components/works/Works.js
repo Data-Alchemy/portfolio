@@ -12,7 +12,7 @@ import Portfolio from '../../assets/recentprojects/Terraforge.png';
 import Veritru from '../../assets/recentprojects/terraform.png';
 import Lofo from '../../assets/recentprojects/snowflake_logo.png';
 import Startup from '../../assets/recentprojects/databricks_logo.png';
-import Lacalle from '../../assets/recentprojects/lacalle.png';
+
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -58,6 +58,7 @@ export const Works = () => {
 
   return (
     <section id="works">
+      <br></br>
       <Container component="main" className={classes.main} maxWidth="md">
         {projects.map((project) => (
           <div className="project" key={ project.id }>
@@ -75,6 +76,9 @@ export const Works = () => {
           </div>
         ))}
       </Container>
+      <br></br>
+      <br></br>
     </section>
+
   );
 };

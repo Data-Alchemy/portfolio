@@ -27,6 +27,7 @@ export const About = () => {
 
   return (
     <section id="about">
+            <br></br>
       <Container component="main" className={classes.main} maxWidth="md">
         <div className="about">
           <div className="_img"
@@ -52,6 +53,7 @@ export const About = () => {
           </div>
         </div>
       </Container>
+      <br></br>
     </section>
   );
 };
